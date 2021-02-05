@@ -1,0 +1,9 @@
+{
+    "files.exclude": {
+        "./.{ide_helper,ide_helper_models}.php": true,
+        "./.phpstorm.meta.php": true
+    },
+    "eslint.workingDirectories": [
+        "./resources/frontend"
+    ]
+}
